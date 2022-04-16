@@ -6,7 +6,7 @@ import Router from "./components/Router"
 
 function App() {
   return (
-    <div className='bg-dark bg-gradient min-vh-100'>
+    <div className='bg-dark bg-gradient min-vh-100 '>
       <Navbar />
       <div className='container'>
         <Router />
